@@ -1,0 +1,15 @@
+*{}
+body{display:flex;justify-content:center;flex-direction:column;align-items:center;background: #b68d40;}
+main{display:flex;justify-content:center;flex-direction:column;align-items:center;width:270px;height: 400px;background: #122620;border-radius: 5px;}
+table{width: 260px;border-collapse:separate;border-spacing:8px;}
+h1{color: #122620 ;text-transform:uppercase;font-family:helvetica;}
+p{width:260px;height: 64px;background: #122620;border:none;margin: 10px;vertical-align:center;color: white;font-size:2rem;box-shadow:0 0 50px 10px black;text-overflow:clip;max-width:70vw;white-space:nowrap}
+td{font-size:1.5rem;height:32px;background: #b68d40;color:white;vertical-align:center;text-align:center;padding:10px;margin: 20px;border-radius: 5px;}
+tr{margin:20px;}
+.control{background: #f4ebd0;color: black;}
+#calculate{width:45%;height: 48px;position:relative;border:none;border-radius: 5px;font-size:1.5rem;margin: 10px auto;}
+.table{}
+#color{background: #f4ebd0;color: black}
+span{font-size:1.5rem;color: #f4ebd0;font-family:cursive, sans-serif;}
+#backspace{width:45%;height: 3rem;position:relative;border:none;border-radius: 5px;font-size:1.5rem;margin: 10px auto;}
+.new{display:flex;justify-content:center;flex-direction:row;flex-wrap:nowrap}
