@@ -1,1 +1,1 @@
-fawoyeye.github.io/calculator/
+https://fawoyeye.github.io/calculator/
